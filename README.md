@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ItzPriya/ItzPriya/main/Purple%20Microphone%20Talent%20Show%20Email%20Header.png "Header")](https://t.me/ItzPriyaX)
+[![Header](https://raw.githubusercontent.com/ItzPriya/ItzPriya/main/Purple%20Microphone%20Talent%20Show%20Email%20Header.png "Header")](https://t.me/ItzPriyaX) | [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)]
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
