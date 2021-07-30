@@ -3,7 +3,7 @@
 
 My name is Priya and I'm a software developer/DevOps engineer. I'm from India, living in Sweeden and currently Finishing My Studies. 
 
-## >>>>>> [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)]
+![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
 
 ## &#x270d; Hacking and Cracking
 
