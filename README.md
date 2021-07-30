@@ -28,3 +28,7 @@ Apart from coding, I also Hack and Crack Apps - Its all For Education Purposes a
 <a href="https://github.com/ItzPriya/ItsPriya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzPriya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ItzPriya's GitHub Stats" />
 </a>
+
+## 📊 Stats
+
+[![Metrics](https://metrics.lecoq.io/xditya?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
