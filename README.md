@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ItzPriya/ItzPriya/main/Purple%20Teal%20and%20Yellow%20Blob%20Neon%20Noir%20Beauty%20Influencer%20YouTube%20Channel%20Art.png "Header")](https://t.me/ItzPriyaX)
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Priya and I'm a software developer/DevOps engineer. I'm from India, living in Sweeden and currently Finishing My Studies. 
