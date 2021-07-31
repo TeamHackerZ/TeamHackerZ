@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Priya and I'm a software developer/DevOps engineer. I'm from India, living in Sweeden and currently Finishing My Studies. 
+My name is Annie and I'm a software developer/DevOps engineer. I'm from India, living in Sweeden and currently Finishing My Studies. 
 
 ![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
 
