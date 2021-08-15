@@ -1,13 +1,13 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Annie and I'm a software developer/DevOps engineer. I'm from India, living in Sweeden and currently Finishing My Studies. 
+This is Team Wolf and we are a software developers/DevOps engineers. We're From Us
 
 ![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
 
 ## &#x270d; Hacking and Cracking
 
-Apart from coding, I also Hack and Crack Apps - Its all For Education Purposes and Finding Bugs
+Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes and Finding Bugs
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -54,13 +54,13 @@ Apart from coding, I also Hack and Crack Apps - Its all For Education Purposes a
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/SexyAnnie/SexyAnnie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SexyAnnie&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SexyAnnie's GitHub Stats" />
+<a href="https://github.com/xWolfTeam/xWolfTeam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xWolfTeam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="xWolfTeam's GitHub Stats" />
 </a>
-<a href="https://github.com/SexyAnnie/SexyAnnie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SexyAnnie&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/xWolfTeam/xWolfTeam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xWolfTeam&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 ## 📊 Stats
 
-![Metrics](https://metrics.lecoq.io/SexyAnnie?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/xWolfTeam?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
