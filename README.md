@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Team Wolf and we are a software developers/DevOps engineers. We're From Us
+This is 🎭тεαмнαcкεяz™ and we are a Team Of Advanced Hackerz.
 
 ![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
 
@@ -54,13 +54,13 @@ Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes 
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/xWolfTeam/xWolfTeam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xWolfTeam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="xWolfTeam's GitHub Stats" />
+<a href="https://github.com/TeamHackerZ/TeamHackerZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamHackerZ&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TeamHackerZ's GitHub Stats" />
 </a>
-<a href="https://github.com/xWolfTeam/xWolfTeam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xWolfTeam&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/TeamHackerZ/TeamHackerZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamHackerZ&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 ## 📊 Stats
 
-![Metrics](https://metrics.lecoq.io/xWolfTeam?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/TeamHackerZ?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
