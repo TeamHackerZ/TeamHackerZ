@@ -55,12 +55,12 @@ Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes 
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/TeamHackerZ/TeamHackerZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TeamHackerZ's GitHub Stats" />
+  <img align="center" src="https://raw.githubusercontent.com/TeamHackerZ/TeamHackerZ/main/Capture.PNG" alt="TeamHackerZ's GitHub Stats" />
 </a>
 <a href="https://github.com/TeamHackerZ/TeamHackerZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamHackerZ&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabpot&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 ## 📊 Stats
 
-![Metrics](https://metrics.lecoq.io/TeamHackerZ?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/torvalds?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
