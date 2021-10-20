@@ -11,7 +11,7 @@ This is 🎭тεαмнαcкεяz™ and we are a Team Of Advanced Hackerz.
 
 Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes and Finding Bugs.
 
-<p align ="right">
+<p align ="center">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
