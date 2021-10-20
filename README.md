@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![image](https://i2.wp.com/webaskit.com/wp-content/uploads/2021/05/webaskit-joi-telegram-channel.gif?resize=736%2C300) Https:/t.me/xAlora
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 This is 🎭тεαмнαcкεяz™ and we are a Team Of Advanced Hackerz.
 
