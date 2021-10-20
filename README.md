@@ -5,9 +5,27 @@ This is 🎭тεαмнαcкεяz™ and we are a Team Of Advanced Hackerz.
 
 ![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
 
+<p align="center"> <a href="https://github.com/TeamHackerZ"><img src="https://github-profile-trophy.vercel.app/?username=andrew&no-bg=true" alt="TeamHackerZ" /></a> </p>
+
 ## &#x270d; Hacking and Cracking
 
-Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes and Finding Bugs
+Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes and Finding Bugs.
+
+<p align ="right">
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br>
+</p>  
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -60,6 +78,7 @@ Apart from coding, We also Hack and Crack Apps - Its all For Education Purposes 
 <a href="https://github.com/TeamHackerZ/TeamHackerZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabpot&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew&" alt="TeamHackerZ" /></p>
 
 ## 📊 Stats
 
