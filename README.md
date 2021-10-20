@@ -3,7 +3,7 @@
 
 This is 🎭тεαмнαcкεяz™ and we are a Team Of Advanced Hackerz.
 
-![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
+![Profile views](https://komarev.com/ghpvc/?username=andrew&label=Profile%20views)
 
 <p align="center"> <a href="https://github.com/TeamHackerZ"><img src="https://github-profile-trophy.vercel.app/?username=andrew&no-bg=true" alt="TeamHackerZ" /></a> </p>
 
